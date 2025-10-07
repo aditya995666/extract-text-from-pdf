@@ -1,1 +1,5 @@
-# moderl folder and the add models/bart-large-cnn/     ,   models/all-MiniLM-L6-v2/
+# download on system and add model folder
+
+models/bart-large-cnn/     
+
+models/all-MiniLM-L6-v2/
